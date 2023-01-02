@@ -15,7 +15,7 @@ public class Person implements IPerson {
      protected String lastName;
 
   protected  int age;
-    String sex;
+   protected String sex;
     //default const
     public Person() {
     }
